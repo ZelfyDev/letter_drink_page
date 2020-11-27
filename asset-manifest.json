@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/letter_drink_page/static/css/main.e6b2a5d2.chunk.css",
+    "main.js": "/letter_drink_page/static/js/main.a856ae36.chunk.js",
+    "main.js.map": "/letter_drink_page/static/js/main.a856ae36.chunk.js.map",
+    "runtime-main.js": "/letter_drink_page/static/js/runtime-main.3e24a42d.js",
+    "runtime-main.js.map": "/letter_drink_page/static/js/runtime-main.3e24a42d.js.map",
+    "static/js/2.e32be68b.chunk.js": "/letter_drink_page/static/js/2.e32be68b.chunk.js",
+    "static/js/2.e32be68b.chunk.js.map": "/letter_drink_page/static/js/2.e32be68b.chunk.js.map",
+    "index.html": "/letter_drink_page/index.html",
+    "static/css/main.e6b2a5d2.chunk.css.map": "/letter_drink_page/static/css/main.e6b2a5d2.chunk.css.map",
+    "static/js/2.e32be68b.chunk.js.LICENSE.txt": "/letter_drink_page/static/js/2.e32be68b.chunk.js.LICENSE.txt",
+    "static/media/201113_Letter_Drink-banner-09.a5726f27.png": "/letter_drink_page/static/media/201113_Letter_Drink-banner-09.a5726f27.png",
+    "static/media/201113_Letter_Drink-banner-10.28b8fd6c.png": "/letter_drink_page/static/media/201113_Letter_Drink-banner-10.28b8fd6c.png",
+    "static/media/201113_Letter_Drink-banner-11.492e42a1.png": "/letter_drink_page/static/media/201113_Letter_Drink-banner-11.492e42a1.png",
+    "static/media/201113_Letter_Drink-banner-12.60faf095.png": "/letter_drink_page/static/media/201113_Letter_Drink-banner-12.60faf095.png",
+    "static/media/201113_Letter_Drink-banner-13.d5487200.png": "/letter_drink_page/static/media/201113_Letter_Drink-banner-13.d5487200.png",
+    "static/media/201113_Letter_Drink-banner-14.54b9d54a.png": "/letter_drink_page/static/media/201113_Letter_Drink-banner-14.54b9d54a.png",
+    "static/media/201113_Letter_Drink-banner-15.3bf62c98.png": "/letter_drink_page/static/media/201113_Letter_Drink-banner-15.3bf62c98.png",
+    "static/media/201113_Letter_Drink-banner-16.ec921485.png": "/letter_drink_page/static/media/201113_Letter_Drink-banner-16.ec921485.png",
+    "static/media/201113_Letter_Drink-banner-17.85e4b544.jpg": "/letter_drink_page/static/media/201113_Letter_Drink-banner-17.85e4b544.jpg",
+    "static/media/201113_Letter_Drink-banner-18.007f5f58.jpg": "/letter_drink_page/static/media/201113_Letter_Drink-banner-18.007f5f58.jpg",
+    "static/media/201113_Letter_Drink-banner-19.effea309.jpg": "/letter_drink_page/static/media/201113_Letter_Drink-banner-19.effea309.jpg",
+    "static/media/201113_Letter_Drink-banner-20.58aba3f9.jpg": "/letter_drink_page/static/media/201113_Letter_Drink-banner-20.58aba3f9.jpg",
+    "static/media/index.css": "/letter_drink_page/static/media/search-icon.265a3858.png",
+    "static/media/banner.35da64e3.jpg": "/letter_drink_page/static/media/banner.35da64e3.jpg",
+    "static/media/birthday.0672e55d.jpg": "/letter_drink_page/static/media/birthday.0672e55d.jpg",
+    "static/media/christmas.d942083b.jpg": "/letter_drink_page/static/media/christmas.d942083b.jpg",
+    "static/media/congrats.a93d1ec4.jpg": "/letter_drink_page/static/media/congrats.a93d1ec4.jpg",
+    "static/media/new-year.a691fe76.jpg": "/letter_drink_page/static/media/new-year.a691fe76.jpg",
+    "static/media/quote.f75cad0e.jpg": "/letter_drink_page/static/media/quote.f75cad0e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e24a42d.js",
+    "static/js/2.e32be68b.chunk.js",
+    "static/css/main.e6b2a5d2.chunk.css",
+    "static/js/main.a856ae36.chunk.js"
+  ]
+}
