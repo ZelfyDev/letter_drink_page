@@ -15,7 +15,7 @@ render() {
                 <li><a class="" href="#">Privacy and Cookie Policy</a></li>
                 <li><a class="" href="#">Advanced Search</a></li>
                 <li><a class="" href="#">Orders and Returns</a></li>
-                <li><a class="" href="#">contact Us</a></li>
+                <li><a class="" href="#">Contact Us</a></li>
             </ul>
             <div class="send-email">
                 <input class="email-icon" type="text" placeholder="      Enter your email address"></input><button>&nbsp;&nbsp;Subscribe&nbsp;&nbsp;</button> 
