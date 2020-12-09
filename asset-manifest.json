@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/letter_drink_page/static/css/main.f2f259fa.chunk.css",
+    "main.css": "/letter_drink_page/static/css/main.c1a8769e.chunk.css",
     "main.js": "/letter_drink_page/static/js/main.f3aff9c1.chunk.js",
     "main.js.map": "/letter_drink_page/static/js/main.f3aff9c1.chunk.js.map",
     "runtime-main.js": "/letter_drink_page/static/js/runtime-main.3e24a42d.js",
@@ -8,7 +8,7 @@
     "static/js/2.e32be68b.chunk.js": "/letter_drink_page/static/js/2.e32be68b.chunk.js",
     "static/js/2.e32be68b.chunk.js.map": "/letter_drink_page/static/js/2.e32be68b.chunk.js.map",
     "index.html": "/letter_drink_page/index.html",
-    "static/css/main.f2f259fa.chunk.css.map": "/letter_drink_page/static/css/main.f2f259fa.chunk.css.map",
+    "static/css/main.c1a8769e.chunk.css.map": "/letter_drink_page/static/css/main.c1a8769e.chunk.css.map",
     "static/js/2.e32be68b.chunk.js.LICENSE.txt": "/letter_drink_page/static/js/2.e32be68b.chunk.js.LICENSE.txt",
     "static/media/201113_Letter_Drink-banner-09.a5726f27.png": "/letter_drink_page/static/media/201113_Letter_Drink-banner-09.a5726f27.png",
     "static/media/201113_Letter_Drink-banner-10.28b8fd6c.png": "/letter_drink_page/static/media/201113_Letter_Drink-banner-10.28b8fd6c.png",
@@ -33,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.3e24a42d.js",
     "static/js/2.e32be68b.chunk.js",
-    "static/css/main.f2f259fa.chunk.css",
+    "static/css/main.c1a8769e.chunk.css",
     "static/js/main.f3aff9c1.chunk.js"
   ]
 }
