@@ -21,7 +21,7 @@
 }
 
 h1 {
-  margin:20px 0px;
+  margin:0px 0px 20px 0px;
   font-family: 'comfortaaBold';
 }
 
@@ -51,6 +51,7 @@ p {
 
 .letter {
   font-size: 3rem;
+  letter-spacing: 2px;
   padding:20px 5px 20px 220px;
   display: inline-block;
   color: #000;
@@ -60,6 +61,7 @@ p {
 
 .drink {
   font-size: 1.5rem;
+  letter-spacing: 2px;
   padding: 18px 0px; 
   padding:20px 0px 3px 0px;
   display: inline-block;
@@ -272,7 +274,7 @@ p {
 }
 
 .birthday {
-  top: 1575px;
+  top: 1570px;
   overflow: hidden;
   position: absolute;
 }
@@ -296,13 +298,13 @@ p {
 
 .best-seller {
   font-size: 3rem;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
   color: #000;
   padding-bottom: 10px;
 }
 
 .border-seller {
-  border-bottom: 8px solid red;
+  border-bottom: 8px solid #e00000;
   width: 70px;
   padding-bottom: 20px;
 }

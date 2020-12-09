@@ -14,7 +14,7 @@ render() {
     return (
         <div class="content">
             <div class="logo-content">
-            <center><img src={logo} alt="" width="230px" height="55px"></img></center>
+            <center><img src={logo} alt="" width="300px" height="70px"></img></center>
             </div>
         <div class="text-content">
             <h1>Let you share good vibes the way you want.</h1>
